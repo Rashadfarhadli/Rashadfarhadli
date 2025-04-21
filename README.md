@@ -13,7 +13,7 @@
 - 📚 Currently learning *React & Advanced JavaScript*  
 - 🎯 Goal: Become a *full-stack developer*  
 - ☕ I code better with music and coffee  
-- 📫 Email: [yourmail@gmail.com](farhadlirashad@gmail.com)
+- 📫 Email: [farhadlirashad@gmail.com](farhadlirashad@gmail.com)
 
 ---
 
@@ -28,8 +28,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elvin123&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvin123&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RashadFarhadli&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashadFarhadli&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elvin123&theme=darkhub&row=1&column=7&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RashadFarhadli&theme=darkhub&row=1&column=7&no-frame=true" />
 </p>
 
 ---
